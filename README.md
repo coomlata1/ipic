@@ -2,6 +2,10 @@
 
 Python script for searching and downloading images from the iTunes, App, and Mac App Stores.
 
+# ipic_ios #
+
+Modified version of ipic.py to run on iOS.
+
 ## Dependencies ##
 
 * [requests][1] for handling communication with the [iTunes Search API][2].
