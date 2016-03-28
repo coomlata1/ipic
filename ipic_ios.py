@@ -3,7 +3,7 @@
 #---Script: ipic_ios.py
 #---Author: drdrang
 #---Created: 03/03/2016
-#___Modified: @coomlata1
+#---Modified: @coomlata1
 #---Last Modified: 03/28/2016
 
 A Pythonista script for downloading images from the iTunes, App,
