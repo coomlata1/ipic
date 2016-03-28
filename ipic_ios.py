@@ -8,7 +8,8 @@
 
 A Pythonista script for downloading images from the iTunes, App,
 and Mac stores. The script was originally written by drdrang for
-iOX and is avaiable as ipic.py here: 'https://github/drdrang/ipic'. His blog here: 'https://leancrew.com/all-this/2016/03/
+iOX and is avaiable as ipic.py here: 'https://github/drdrang/ipic'.
+His blog here: 'https://leancrew.com/all-this/2016/03/
 images-from-the-itunes-app-mac-app-stores/', also furnishes a
 wealth of information about the script. 
 
@@ -29,7 +30,7 @@ of search criteria and then starts this script. It is available
 here: 'https://1writerapp.com/action/b8d98'.
 
 Dependencies: The Docopt module to conveniently handle the search
-criteria  parsing is available here: 
+criteria  parsing is available here: 'https://github.com/docopt/docopt'. 
   
 Installation involves simply copying one file, docopt.py, to the
 'site-packages' folder in Pythonista. The script could also be
