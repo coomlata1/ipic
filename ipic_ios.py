@@ -8,7 +8,7 @@
 
 A Pythonista script for downloading images from the iTunes, App,
 and Mac stores. The script was originally written by drdrang for
-iOX and is avaiable as ipic.py here: 'https://github/drdrang/ipic'.
+OSX and is avaiable as ipic.py here: 'https://github/drdrang/ipic'.
 His blog here: 'https://leancrew.com/all-this/2016/03/
 images-from-the-itunes-app-mac-app-stores/', also furnishes a
 wealth of information about the script. 
